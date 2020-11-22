@@ -1,0 +1,38 @@
+
+/* bar area */
+.bar{
+    /* font-family: selectB; */
+    /* text-align: left; */
+    /* text-align: center; */
+    
+    padding: 24px 24px;
+    margin-top: 34px;
+    border-bottom: 1px solid rgb(207, 207, 207);
+    font-size: 2rem;
+}
+.bar .logo{
+    font-family: selectB;
+}
+
+/* work title area */
+body>div{
+    width: 60%;
+    margin: auto;
+}
+.work_con
+{
+    margin-top: 20px;
+    width: 100%;
+    text-align: left;
+    font-size: 1.2rem;
+}
+.work_con > div{
+    /* display: block; */
+    padding: 10px 20px;
+    /* color: rgb(207, 207, 207); */
+    opacity: 0.4;
+}
+.work_con > div:hover{
+    /* color: rgb(0, 0, 0); */
+    opacity: 1;
+}

@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400&display=swap');
+
+@font-face{
+    font-family: 'selectB';
+    src: url(static/SMSEMyungJoStd-Regular.otf) format('opentype')
+}
+
+* {
+    outline: 0;
+    margin: 0;
+    padding: 0;
+    /* font-family: selectB; */
+    font-family: 'Noto Sans KR', Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+}
+img{
+    width: 100%;
+}
+

@@ -29,7 +29,7 @@ img{
     width: 100%;
 }
 
-@media (min-width: 481px) and (max-width: 767px) {
+@media (min-width: 2px) and (max-width: 900px) {
     .white_{
         width: 100%;
         margin: auto;

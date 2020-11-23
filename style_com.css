@@ -29,3 +29,14 @@ img{
     width: 100%;
 }
 
+@media (min-width: 481px) and (max-width: 767px) {
+    .white_{
+        width: 100%;
+        margin: auto;
+    }
+    .work_slide > div{
+        width: 100%;
+        margin: auto;
+    }
+   
+}

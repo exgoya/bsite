@@ -90,3 +90,6 @@ b{
     width: 60%;
     margin: auto;
 }
+.mySlides > * {
+    padding: 30px 0px;
+}

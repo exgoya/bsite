@@ -1,18 +1,4 @@
 
-/* bar area */
-.bar{
-    /* font-family: selectB; */
-    /* text-align: left; */
-    /* text-align: center; */
-    
-    padding: 24px 24px;
-    margin-top: 34px;
-    border-bottom: 1px solid rgb(207, 207, 207);
-    font-size: 2rem;
-}
-.bar .logo{
-    font-family: selectB;
-}
 
 /* work title area */
 .white_{

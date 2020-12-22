@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400&display=swap');
 
+
 @font-face{
     font-family: 'selectB';
-    src: url(static/SMSEMyungJoStd-Regular.otf) format('opentype')
+    src: url(static/SMSEMyungJoStd-Regular.woff) format('woff');
 }
 
 * {
